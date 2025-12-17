@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // Class to convert distance in kilometers To miles
-public class KilometersToMiles {
+public class KilometersToMilesWithInput {
 
     // Method that performs the conersion of distance
     static double convert(double distanceInKilometers) {
@@ -18,6 +18,7 @@ public class KilometersToMiles {
         Scanner sc = new Scanner(System.in);
 
         // Double variable to store the distance in kilometers
+        System.out.print("Enter the distance (in kilometers): ");
         double distanceInKilometers = sc.nextDouble();
 
         // Using the KilometersToMiles Class's convert method
