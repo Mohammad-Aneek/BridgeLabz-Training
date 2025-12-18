@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VotingEligibility {
+public class SpringSeason {
     public static void main(String[] args) {
         // Creating a Scanner object
         Scanner input = new Scanner(System.in);

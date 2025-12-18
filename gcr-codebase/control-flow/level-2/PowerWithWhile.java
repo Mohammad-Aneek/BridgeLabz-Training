@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PowerUsingWhile {
+public class PowerWithWhile {
     public static void main(String[] args) {
         // Create a Scanner object
         Scanner input = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PowerUsingFor {
+public class PowerWithFor {
     public static void main(String[] args) {
         // Create a Scanner object
         Scanner input = new Scanner(System.in);
