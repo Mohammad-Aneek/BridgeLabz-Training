@@ -23,7 +23,7 @@ public class DayOfWeek {
 
 
         // we get 1 extra day every year but 2 extra on leap years
-        totalDays+= (year - 1) + year/4 - year/100 + year/400;
+        totalDays+= (year - 1) + (year-1)/4 - (year-1)/100 + (year-1)/400;
 
         // extra days per month for a normal year
         int arr[] = {3,0,3,2,3,2,3,3,2,3,2,3};
@@ -35,7 +35,7 @@ public class DayOfWeek {
 
 
         // adding the extra days for the current mont and any leap day if leap years
-        if (isLeapYear(year) && (month > 2 || (month == 2 && days == 29))) {
+        if (isLeapYear(year) && month > 2) {
             totalDays += 1;
         }
         totalDays+=days;
