@@ -76,7 +76,7 @@ public class Calendar {
 
         System.out.println();
         System.out.println(Calendar.getMonth(month) + " " + year);
-        System.out.println("Sun\tMon\tTue\tWed\tThu\tFri\tSat");
+        System.out.println("Sun Mon Tue Wed Thu Fri Sat");
 
         int firstDay = Calendar.getDay(month,1,year);
         int totalDays = Calendar.getDaysInMonth(month,year);
@@ -86,12 +86,12 @@ public class Calendar {
             for (int day = 1; day <= 7; day++) {
                 currentDay++;
                 if (currentDay < 1) {
-                    System.out.print("\t");
+                    System.out.print("    ");
                     continue;
                 } else if (currentDay > totalDays) {
                     break;
                 } else {
-                    System.out.print(currentDay + "\t");
+                    System.out.printf("%3d ",currentDay);
                 }
             }
             System.out.println();
