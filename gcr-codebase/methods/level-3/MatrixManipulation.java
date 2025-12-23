@@ -73,20 +73,6 @@ public class MatrixManipulation {
         return matrix;
     }
 
-    // to transpose matrix 
-    public int[][] transposeMatrix(int [][]matrix){
-
-        int rows = matrix.length, columns = matrix[0].length;
-        int [][]transposedMatrix = new int[columns][rows];
-
-        for (int row = 0; row < rows; row++) {
-            for (int column = 0; column < columns; column++) {
-                transposedMatrix[column][row] = matrix[row][column];
-            }
-        }
-        return transposedMatrix;
-    }
-
     // helper method to display a matrix
     public void displayMatrix(int[][] matrix) {
         if (matrix == null) {
@@ -129,9 +115,6 @@ public class MatrixManipulation {
 
         System.out.println("Multiplication:");
         object.displayMatrix(object.multiplyMatrix(matrix1,matrix3));
-
-        System.out.println("Transpose of Matrix 1:");
-        object.displayMatrix(object.transposeMatrix(matrix1));
 
         input.close();
     }
