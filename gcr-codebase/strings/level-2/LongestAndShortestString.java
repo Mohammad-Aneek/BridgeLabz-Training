@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StringSplitWithLength {
+public class LongestAndShortestString {
     // to count the number of words in string
     public static int countWords(String text) {
         boolean isWord = false;

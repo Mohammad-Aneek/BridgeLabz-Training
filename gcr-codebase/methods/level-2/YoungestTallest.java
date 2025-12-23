@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class YoungestAndTallest {
+public class YoungestTallest {
 
     public static double getTallest(double[] heights) {
         // finding tallest 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class UniqueCharacters {
+public class UniqueFrequency {
     // to get length of string using looping and error handling
     public static int getLength(String str){
         int length = 0;
@@ -68,7 +68,7 @@ public class UniqueCharacters {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        UniqueCharacters object = new UniqueCharacters();
+        UniqueFrequency object = new UniqueFrequency();
 
         String text = input.nextLine();
 
@@ -76,6 +76,7 @@ public class UniqueCharacters {
         for (int i = 0; i < frequency.length; i++) {
             System.out.println(frequency[i][0] + " " + frequency[i][1]);
         }
+        input.close();
     }
 }
 

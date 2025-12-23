@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class PowerCalculator {
-    static long pow(int base, int exponent) {
+    static int pow(int base, int exponent) {
         if (exponent%2 == 0) {
             int temp = pow(base, exponent/2);
             return temp * temp;
@@ -19,7 +19,7 @@ public class PowerCalculator {
             int exponent = sc.nextInt();
 
             long answer = pow(base, exponent);
-            System.out.println("The answer");
+            System.out.println("The answer is " + answer);
         }
     }
 }

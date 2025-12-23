@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class YoungestAndTallest {
+public class YoungestTallest {
     public static void main(String[] args) {
         // Create a Scanner object
         Scanner input = new Scanner(System.in);

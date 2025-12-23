@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class RockPaperScissors {
+public class RockPaperScissor {
     public String getComputeChoice() {
         int choice = (int) (Math.random() * 3);
         String []choices = {"Rock", "Paper", "Scissors"};
@@ -65,7 +65,7 @@ public class RockPaperScissors {
     }
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        RockPaperScissors object = new RockPaperScissors();
+        RockPaperScissor object = new RockPaperScissor();
         int games = input.nextInt();
         System.out.println("Enter your choices : ");
         System.out.println("1. Rock\n2. Paper\n3. Scissors");

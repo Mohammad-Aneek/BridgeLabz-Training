@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Armstrong {
+public class CountDigits {
     public static void main(String[] args) {
         // Create a scanner object
         Scanner input = new Scanner(System.in);
