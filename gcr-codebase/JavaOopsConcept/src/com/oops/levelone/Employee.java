@@ -1,7 +1,6 @@
 package com.oops.levelone;
 
 public class Employee {
-	//non-static variables
 	String name;
 	int id;
 	double salary;
@@ -13,7 +12,7 @@ public class Employee {
 		this.salary=salary;
 	}
 	
-	//creating method to display employee details
+	//to display details
 	public void displayEmployee() {
 		System.out.println("Employee Name: "+name);
 		System.out.println("Employee id: "+id);
@@ -21,9 +20,8 @@ public class Employee {
 	}
 		
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		Employee emp=new Employee("Rohan",1,500000);//calling constructor
-		emp.displayEmployee();//calling the display method
+		Employee emp=new Employee("Rohan",1,500000);
+		emp.displayEmployee();
 	}
 
 }
