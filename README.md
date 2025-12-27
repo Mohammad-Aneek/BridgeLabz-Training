@@ -111,3 +111,19 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
+
+---
+
+### Day 9 – Leetcode questions, Scenario-Based Problems, Git Changes & README Updates  
+**Date:** 26-Dec-2025
+
+- Implemented scenario-based programs (Election Booth Manager, Metro Smart Card Fare Deduction, RajsResultGenerator).
+- Solved 5 leetcode problems.
+- Created new branch for java oops.
+- Updated README structure for day 9.
+
+🔗 **Code Link:**  
+👉 [scenario-based-codebase](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+👉 [leet-code-codebase/arrays](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
+
+
