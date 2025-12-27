@@ -124,6 +124,7 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [scenario-based-codebase](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
 👉 [leet-code-codebase/arrays](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
 
 
