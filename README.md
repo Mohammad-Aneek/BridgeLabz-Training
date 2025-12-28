@@ -123,8 +123,17 @@ BridgeLabz-Training/
 - Updated README structure for day 9.
 
 🔗 **Code Link:**  
-👉 [scenario-based-codebase](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
-
+👉 [scenario-based-codebase](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
 👉 [leet-code-codebase/arrays](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
 
+---
 
+### Day 10 – Leetcode questions & README Updates  
+**Date:** 27-Dec-2025
+
+- Solved leetcode problems on arrays and strings.
+- Updated README structure for day 10.
+
+🔗 **Code Link:**  
+👉 [leet-code-codebase/arrays](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)  
+👉 [leet-code-codebase/strings](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings)
