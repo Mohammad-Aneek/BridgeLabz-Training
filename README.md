@@ -28,3 +28,15 @@
 👉 [Constructors & Access Modifiers](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor)
 
 ---
+
+### Day 3 – this, final, & Static Keywords
+**Date:** 29-Dec-2025
+
+- Learned about **instances**.
+- Understood **final** & **static**.
+- Practiced problems, and pushed them.
+
+🔗 **Code Link:**  
+👉 [this, final, & Static Keywords](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/thisfinalstatic/levelone)
+
+---
