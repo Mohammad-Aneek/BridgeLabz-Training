@@ -1,3 +1,10 @@
+/* 13. Sandeep’s Fitness Challenge Tracker 🏋️
+ * Each day Sandeep completes a number of push-ups.
+ * ● Store counts for a week.
+ * ● Use for-each to calculate total and average.
+ * ● Use continue to skip rest days.
+*/
+
 import java.util.Scanner;
 public class FitnessTracker {
     public static void main(String[] args) {
