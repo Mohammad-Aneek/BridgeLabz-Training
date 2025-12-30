@@ -146,7 +146,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 11 – Scenario Based questions & README Updates  
-**Date:** 27-Dec-2025
+**Date:** 29-Dec-2025
 
 - Implemented scenario-based programs
   - Parking Lot Gate System
