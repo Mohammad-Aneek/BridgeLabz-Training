@@ -1,3 +1,10 @@
+/* 12. Train Reservation Queue 🚆
+ * Simulate a basic ticket booking system.
+ * ● Show menu with switch
+ * ● Allow multiple bookings using while-loop.
+ * ● Stop booking once seats reach zero (break).
+*/
+
 import java.util.Scanner;
 
 public class TrainReservationQueue {
