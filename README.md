@@ -106,24 +106,29 @@ BridgeLabz-Training/
 ### Day 8 – Scenario-Based Problems & README Updates  
 **Date:** 24-Dec-2025
 
-- Implemented scenario-based programs (Coffee Counter, BMI Tracker).
+- Implemented scenario-based programs
+  - Coffee Counter
+  - BMI Tracker
 - Updated README structure per guidelines.
 
 🔗 **Code Link:**  
-👉 https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
+👉 [scenario-based-codebase/day-01](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day-01)  
 
 ---
 
 ### Day 9 – Leetcode questions, Scenario-Based Problems, Git Changes & README Updates  
 **Date:** 26-Dec-2025
 
-- Implemented scenario-based programs (Election Booth Manager, Metro Smart Card Fare Deduction, RajsResultGenerator).
+- Implemented scenario-based programs:
+  - Election Booth Manager
+  - Metro Smart Card Fare Deduction
+  - RajsResultGenerator
 - Solved 5 leetcode problems.
 - Created new branch for java oops.
 - Updated README structure for day 9.
 
 🔗 **Code Link:**  
-👉 [scenario-based-codebase](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
+👉 [scenario-based-codebase/day-02](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day-02)  
 👉 [leet-code-codebase/arrays](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
 
 ---
@@ -137,3 +142,20 @@ BridgeLabz-Training/
 🔗 **Code Link:**  
 👉 [leet-code-codebase/arrays](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)  
 👉 [leet-code-codebase/strings](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings)
+
+---
+
+### Day 11 – Scenario Based questions & README Updates  
+**Date:** 27-Dec-2025
+
+- Implemented scenario-based programs
+  - Parking Lot Gate System
+  - The Number Guessing Game
+  - Shopkeeper’s Discount Dashboard
+  - School Bus Attendance System
+  - Phone Recharge Simulator
+- Restructured `scenario-based-codebase` to track day wise progress
+- Updated README structure for day 11.
+
+🔗 **Code Link:**  
+👉 [scenario-based-codebase/day-03](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day-03)  
