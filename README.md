@@ -163,7 +163,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 12 – Scenario Based questions & README Updates  
-**Date:** 29-Dec-2025
+**Date:** 30-Dec-2025
 
 - Implemented scenario-based programs
   - Temperature Logger
@@ -175,3 +175,19 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [scenario-based-codebase/day-04](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day-04)  
+
+---
+
+### Day 13 – Scenario Based questions & README Updates  
+**Date:** 31-Dec-2025
+
+- Implemented scenario-based programs
+  - Digital Watch Simulation
+  - Online Quiz Application 
+  - Currency Exchange Kiosk 
+  - Bus Route Distance Tracker
+  - Festival Lucky Draw 
+- Updated README structure for day 13.
+
+🔗 **Code Link:**  
+👉 [scenario-based-codebase/day-05](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day-05)  
