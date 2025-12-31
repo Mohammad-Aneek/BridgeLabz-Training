@@ -11,6 +11,21 @@
 - Classes, Objects and Features of Object Oriented Programming.
 - Created a new git branch `java-oops-practice`.
 - Practiced and pushed programs.
+- Create the directory structure.
+
+```
+BridgeLabz-Training/
+├── java-oops-practice/
+│   ├── gcr-codebase/
+│   │   └── JavaOopsConcept/src/com/
+│   │       ├── constructor/
+│   │       ├── objectmodeling/
+│   │       ├── oops/
+│   │       └── thisfinalstatic/
+│   ├── leet-code-codebase/
+│   └── scenario-based-codebase/
+└── README.md
+```
 
 🔗 **Code Link:**  
 👉 [oops](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/oops)
