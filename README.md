@@ -159,3 +159,19 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [scenario-based-codebase/day-03](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day-03)  
+
+---
+
+### Day 12 – Scenario Based questions & README Updates  
+**Date:** 29-Dec-2025
+
+- Implemented scenario-based programs
+  - Temperature Logger
+  - Train Reservation Queue 
+  - Fitness Challenge Tracker
+  - Movie Ticket Booking App
+  - Library Reminder App
+- Updated README structure for day 12.
+
+🔗 **Code Link:**  
+👉 [scenario-based-codebase/day-04](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day-04)  
