@@ -50,8 +50,11 @@ public class TrainReservationQueue {
         while (true) {
             System.out.println("Enter the seat number: ");
             seatNumber = input.nextInt() - 1;
-            if (seatNumber < 0 || 9 < seatNumber || !seats[seatNumber]) {
-                System.out.println("Invalid! Try again");
+            if (seatNumber < 0 || 9 < seatNumber ) {
+                System.out.println("Invalid input! try again");
+            }else if (!seats[seatNumber]) {
+                System.out.println("Seat not booked!");
+                return;
             } else {
                 break;
             }
