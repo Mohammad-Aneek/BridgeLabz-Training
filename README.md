@@ -145,6 +145,8 @@ BridgeLabz-Training/
 
 ---
 
+## Week 3: Scenario-Based Practice
+
 ### Day 11 – Scenario Based questions & README Updates  
 **Date:** 29-Dec-2025
 
