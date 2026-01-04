@@ -96,3 +96,26 @@ BridgeLabz-Training/
   * VehicleManagementSystem  
 
 🔗 **Code Link:** 👉 [inheritance](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
+
+
+---
+
+### Day 6 – Encapsulation, Polymorphism & Abstraction
+
+**Date:** 01-Jan-2026
+
+* Learned **Encapsulation** (Getters/Setters).
+* Implemented **Polymorphism** (Method Overloading & Overriding).
+* Understood **Interfaces** and **Abstract Classes**.
+* Practiced and pushed the following problems.
+  * BankingSystem
+  * ECommercePlatform
+  * EmployeeManagementSystem
+  * HospitalSystem
+  * LibraryManagementSystem
+  * OnlineFoodDelivery
+  * RideHailingApplication
+  * VehicleRental    
+
+🔗 **Code Link:** 👉 [polymorphism](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/polymorphism)
+
