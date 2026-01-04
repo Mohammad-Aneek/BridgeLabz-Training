@@ -19,16 +19,19 @@ BridgeLabz-Training/
 │   ├── gcr-codebase/
 │   │   └── JavaOopsConcept/src/com/
 │   │       ├── constructor/
+│   │       ├── inheritance/
 │   │       ├── objectmodeling/
 │   │       ├── oops/
+│   │       ├── polymorphism/
 │   │       └── thisfinalstatic/
 │   ├── leet-code-codebase/
 │   └── scenario-based-codebase/
 └── README.md
+
 ```
 
 🔗 **Code Link:**  
-👉 [oops](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/oops)
+👉 [oops](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/oops)
 
 ---
 
@@ -40,7 +43,7 @@ BridgeLabz-Training/
 - Practiced problems, and pushed them.
 
 🔗 **Code Link:**  
-👉 [Constructors & Access Modifiers](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor)
+👉 [Constructors & Access Modifiers](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor)
 
 ---
 
@@ -52,6 +55,6 @@ BridgeLabz-Training/
 - Practiced problems, and pushed them.
 
 🔗 **Code Link:**  
-👉 [this, final, & Static Keywords](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/thisfinalstatic/levelone)
+👉 [this, final, & Static Keywords](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/thisfinalstatic/levelone)
 
 ---
