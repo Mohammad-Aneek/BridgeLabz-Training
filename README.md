@@ -74,3 +74,25 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** 👉 [objectmodeling](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodeling)
 
+---
+
+### Day 5 – Inheritance & JVM Architecture
+
+**Date:** 31-Dec-2025
+
+* Studied **Inheritance** (Single, Multilevel, Hierarchical).
+* Understood the Architecture of **JVM, JRE, and JDK**.
+* Practiced and pushed the following problems.
+  * AnimalHierarchy
+  * BankAccount
+  * EducationalCourseHierarchy
+  * EmployeeManagementSystem
+  * LibraryManagement
+  * OnlineRetailOrderManagement
+  * RestaurantManagementSystem
+  * SchoolSystem
+  * SmartHomeDevices
+  * VehicleAndTransportSystem
+  * VehicleManagementSystem  
+
+🔗 **Code Link:** 👉 [inheritance](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
