@@ -58,3 +58,19 @@ BridgeLabz-Training/
 👉 [this, final, & Static Keywords](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/thisfinalstatic/levelone)
 
 ---
+
+### Day 4 – Object Modeling & Class Diagrams
+
+**Date:** 30-Dec-2025
+
+* Learned **Object Oriented Design Principles**.
+- Practiced and pushed the following problems.
+  - BankAndAccount
+  - CompanyAndDepartments
+  - EcommerceSystem
+  - HospitalSystem
+  - SchoolSystem
+  - UniversitySystem
+
+🔗 **Code Link:** 👉 [objectmodeling](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodeling)
+
