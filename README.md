@@ -38,7 +38,7 @@ BridgeLabz-Training/
 - Practiced and pushed programs.
 
 🔗 **Code Link:**  
-👉 https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
+👉 https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements
 
 ---
 
@@ -51,7 +51,7 @@ BridgeLabz-Training/
 - Solved practice problems and pushed solutions.
 
 🔗 **Code Link:**  
-👉 https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow
+👉 https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
 
 ---
 
@@ -63,7 +63,7 @@ BridgeLabz-Training/
 - Array-based problem solving.
 
 🔗 **Code Link:**  
-👉 https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
+👉 https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays
 
 ---
 
@@ -74,7 +74,7 @@ BridgeLabz-Training/
 - Reusable logic and clean code practices.
 
 🔗 **Code Link:**  
-👉 https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods
+👉 https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods
 
 ---
 
@@ -88,7 +88,7 @@ BridgeLabz-Training/
 - String practice problems.
 
 🔗 **Code Link:**  
-👉 https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings
+👉 https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings
 
 ---
 
@@ -99,7 +99,7 @@ BridgeLabz-Training/
 - Utility programs (e.g., Temperature Converter).
 
 🔗 **Code Link:**  
-👉 https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra
+👉 https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extra
 
 ---
 
@@ -112,7 +112,7 @@ BridgeLabz-Training/
 - Updated README structure per guidelines.
 
 🔗 **Code Link:**  
-👉 [scenario-based-codebase/day-01](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day-01)  
+👉 [scenario-based-codebase/day-01](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based-codebase/day-01)  
 
 ---
 
@@ -128,8 +128,8 @@ BridgeLabz-Training/
 - Updated README structure for day 9.
 
 🔗 **Code Link:**  
-👉 [scenario-based-codebase/day-02](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day-02)  
-👉 [leet-code-codebase/arrays](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
+👉 [scenario-based-codebase/day-02](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based-codebase/day-02)  
+👉 [leet-code-codebase/arrays](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase/arrays)
 
 ---
 
@@ -140,8 +140,8 @@ BridgeLabz-Training/
 - Updated README structure for day 10.
 
 🔗 **Code Link:**  
-👉 [leet-code-codebase/arrays](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)  
-👉 [leet-code-codebase/strings](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings)
+👉 [leet-code-codebase/arrays](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase/arrays)  
+👉 [leet-code-codebase/strings](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase/strings)
 
 ---
 
@@ -160,7 +160,7 @@ BridgeLabz-Training/
 - Updated README structure for day 11.
 
 🔗 **Code Link:**  
-👉 [scenario-based-codebase/day-03](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day-03)  
+👉 [scenario-based-codebase/day-03](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based-codebase/day-03)  
 
 ---
 
@@ -176,7 +176,7 @@ BridgeLabz-Training/
 - Updated README structure for day 12.
 
 🔗 **Code Link:**  
-👉 [scenario-based-codebase/day-04](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day-04)  
+👉 [scenario-based-codebase/day-04](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based-codebase/day-04)  
 
 ---
 
@@ -192,4 +192,4 @@ BridgeLabz-Training/
 - Updated README structure for day 13.
 
 🔗 **Code Link:**  
-👉 [scenario-based-codebase/day-05](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day-05)  
+👉 [scenario-based-codebase/day-05](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based-codebase/day-05)  
