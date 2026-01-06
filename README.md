@@ -223,3 +223,13 @@ BridgeLabz-Training/
 
 🔗 **Links:** [java-oops-practice/scenario-based-codebase/day-01](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayone) 
 
+---
+
+### Day 16 – Scenario Based questions 
+**Date:** 03-Jan-2025
+
+* **OOPs Track:**
+  * **Scenarios:** Implemented simulations for CabbyGo and MyBank.
+
+🔗 **Links:**  [java-oops-practice/scenario-based-codebase/day-02](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/daytwo) 
+
