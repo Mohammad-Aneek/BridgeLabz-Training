@@ -120,3 +120,18 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** 👉 [polymorphism](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/polymorphism)
 
+---
+
+### Day 7 – Scenario Based questions & README Updates  
+**Date:** 02-Jan-2025
+
+- Implemented scenario-based programs
+  - EWalletApplication
+  - HospitalManagementSystem
+  - SmartHomeAutomation
+  - UniversityCourseEnrollment
+  - VehicleRentalApplication
+- Updated README structure for day 7.
+
+🔗 **Code Link:** 👉 [scenario-based-codebase/day-01](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayone) 
+
