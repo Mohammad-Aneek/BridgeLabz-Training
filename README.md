@@ -147,3 +147,16 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** 👉 [scenario-based-codebase/day-02](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/daytwo) 
 
+---
+## Week 2: Oops Fundamentals Practice
+
+### Day 9 – Scenario Based questions & README Updates  
+**Date:** 05-Jan-2025
+
+- Implemented scenario-based programs
+  - CampusConnect
+  - SwiftCart
+- Updated README structure for day 9.
+
+🔗 **Code Link:** 👉 [scenario-based-codebase/day-03](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/daythree) 
+
