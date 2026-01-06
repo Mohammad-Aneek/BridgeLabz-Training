@@ -135,3 +135,15 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** 👉 [scenario-based-codebase/day-01](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayone) 
 
+---
+
+### Day 8 – Scenario Based questions & README Updates  
+**Date:** 03-Jan-2025
+
+- Implemented scenario-based programs
+  - CabbyGo
+  - MyBank
+- Updated README structure for day 8.
+
+🔗 **Code Link:** 👉 [scenario-based-codebase/day-02](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/daytwo) 
+
