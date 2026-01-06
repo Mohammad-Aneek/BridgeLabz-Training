@@ -233,3 +233,14 @@ BridgeLabz-Training/
 
 🔗 **Links:**  [java-oops-practice/scenario-based-codebase/day-02](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/daytwo) 
 
+---
+## Week 4: Oops Fundamentals Practice
+
+### Day 17 – Scenario Based questions & README Updates  
+**Date:** 05-Jan-2025
+
+* **OOPs Track:**
+  * **Scenarios:** Implemented simulations for CampusConnect and SwiftCart.
+
+🔗 **Links:**  [java-oops-practice/scenario-based-codebase/day-03](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/daythree) 
+
