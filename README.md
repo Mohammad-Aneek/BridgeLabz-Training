@@ -110,13 +110,13 @@ BridgeLabz-Training/
 **Date:** 26-Dec-2025
 
 * **☕ Core Java Track:**
-* **Scenarios:** Implemented logic for election management, fare deduction systems, and result generation.
-* **LeetCode:** Solved 5 algorithmic problems focusing on Arrays.
+  * **Scenarios:** Implemented logic for election management, fare deduction systems, and result generation.
+  * **LeetCode:** Solved 5 algorithmic problems focusing on Arrays.
 
 * **OOPs Track:**
-* **Foundations:** Procedural vs. Object-Oriented Programming.
-* **Basics:** Classes, Objects, and memory allocation.
-* **Setup:** Created `java-oops-practice` branch and directory structure.
+  * **Foundations:** Procedural vs. Object-Oriented Programming.
+  * **Basics:** Classes, Objects, and memory allocation.
+  * **Setup:** Created `java-oops-practice` branch and directory structure.
 
 🔗 **Links:** [core-java-practice/scenario-based-codebase/day-02](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based-codebase/day-02) | [java-oops-codebase/oops](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/oops)
 
@@ -125,11 +125,11 @@ BridgeLabz-Training/
 **Date:** 27-Dec-2025
 
 * **Core Java Track:**
-* **LeetCode:** Deep dive into Array manipulation and String algorithms.
+  * **LeetCode:** Deep dive into Array manipulation and String algorithms.
 
 * **OOPs Track:**
-* **Constructors:** Default, Parameterized, and Copy constructors.
-* **Access Modifiers:** `private`, `public`, `protected`, and default scope rules.
+  * **Constructors:** Default, Parameterized, and Copy constructors.
+  * **Access Modifiers:** `private`, `public`, `protected`, and default scope rules.
 
 🔗 **Links:** [core-java-practice/leet-code-codebase/arrays](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase/arrays) | [java-oops-practice/constructor](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor)
 
@@ -142,12 +142,12 @@ BridgeLabz-Training/
 **Date:** 29-Dec-2025
 
 * **Core Java Track:**
-* **Scenarios:** Developed logic for Parking Lot systems, Number Guessing games, and Shopkeeper dashboards.
+  * **Scenarios:** Developed logic for Parking Lot systems, Number Guessing games, and Shopkeeper dashboards.
 
 
 * **OOPs Track:**
-* **Keywords:** `this` (current instance), `final` (constants/immutability), `static` (class-level memory).
-* **Memory:** Understanding Instance vs. Static context.
+  * **Keywords:** `this` (current instance), `final` (constants/immutability), `static` (class-level memory).
+  * **Memory:** Understanding Instance vs. Static context.
 
 
 
@@ -158,11 +158,11 @@ BridgeLabz-Training/
 **Date:** 30-Dec-2025
 
 * **Core Java Track:**
-* **Scenarios:** Created loggers for temperature, reservation queues, and fitness trackers.
+  * **Scenarios:** Created loggers for temperature, reservation queues, and fitness trackers.
 
 * **OOPs Track:**
-* **Object Oriented Design:** Applied principles to model real-world systems.
-* **System Models:** Designed class structures for Banking, Corporate, E-Commerce, Hospital, and Educational domains.
+  * **Object Oriented Design:** Applied principles to model real-world systems.
+  * **System Models:** Designed class structures for Banking, Corporate, E-Commerce, Hospital, and Educational domains.
 
 🔗 **Links:** [core-java-practice/scenario-based-codebase/day-04](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based-codebase/day-04) | [java-oops-practice/objectmodeling](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodeling)
 
@@ -171,12 +171,12 @@ BridgeLabz-Training/
 **Date:** 31-Dec-2025
 
 * **Core Java Track:**
-* **Scenarios:** Implemented simulations for Digital Watches, Online Quizzes, and Currency Exchanges.
+  * **Scenarios:** Implemented simulations for Digital Watches, Online Quizzes, and Currency Exchanges.
 
 * **OOPs Track:**
-* **Inheritance:** Implemented Single, Multilevel, and Hierarchical inheritance.
-* **Architecture:** Studied JVM (Java Virtual Machine), JRE, and JDK internals.
-* **Implementation:** Built inheritance hierarchies for Transport, Smart Home, and Retail systems.
+  * **Inheritance:** Implemented Single, Multilevel, and Hierarchical inheritance.
+  * **Architecture:** Studied JVM (Java Virtual Machine), JRE, and JDK internals.
+  * **Implementation:** Built inheritance hierarchies for Transport, Smart Home, and Retail systems.
 
 🔗 **Links:** [core-java-practice/scenario-based-codebase/day-05](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based-codebase/day-05) | [java-oops-practice/inheritance](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
 
@@ -185,11 +185,9 @@ BridgeLabz-Training/
 **Date:** 01-Jan-2026
 
 * **OOPs Track:**
-* **Encapsulation:** Data hiding using Getters/Setters.
-* **Polymorphism:** Method Overloading (Compile-time) & Overriding (Runtime).
-* **Abstraction:** Using `interface` and `abstract class`.
-* **Complex Systems:** Designed modular systems for Banking (Loanable), E-Commerce (Taxable), and Healthcare applications using polymorphic principles.
-
-
+  * **Encapsulation:** Data hiding using Getters/Setters.
+  * **Polymorphism:** Method Overloading (Compile-time) & Overriding (Runtime).
+  * **Abstraction:** Using `interface` and `abstract class`.
+  * **Complex Systems:** Designed modular systems for Banking (Loanable), E-Commerce (Taxable), and Healthcare applications using polymorphic principles.
 
 🔗 **Code:** [java-oops-practice/polymorphism](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/polymorphism)
