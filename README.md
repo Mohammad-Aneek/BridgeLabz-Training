@@ -25,7 +25,7 @@ BridgeLabz-Training/
 ---
 
 ## Training Log
-
+---
 ## Week 1: Git, GitHub & Core Java Fundamentals
 
 ### Day 1 – Git & GitHub Setup
@@ -35,6 +35,8 @@ BridgeLabz-Training/
 * **Setup:** Installed and configured Git globally.
 * **Repository:** Initialized the repository, set up remote origin, and managed branches.
 * **Commands:** Mastered `git init`, `clone`, `add`, `commit`, `push`, and `status`.
+
+---
 
 ### Day 2 – Programming Elements
 
@@ -46,6 +48,8 @@ BridgeLabz-Training/
   
 🔗 **Code:** [core-java-practice/programming-elements](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
+---
+
 ### Day 3 – Control Flows
 
 **Date:** 18-Dec-2025
@@ -56,6 +60,8 @@ BridgeLabz-Training/
   
 🔗 **Code:** [core-java-practice/control-flow](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 
+---
+
 ### Day 4 – Arrays
 
 **Date:** 19-Dec-2025
@@ -64,6 +70,8 @@ BridgeLabz-Training/
 * **Operations:** Array initialization, traversal, and memory management.
   
 🔗 **Code:** [core-java-practice/arrays](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
+
+---
 
 ### Day 5 – Methods
 
@@ -88,6 +96,8 @@ BridgeLabz-Training/
   
 🔗 **Code:** [core-java-practice/strings](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 
+---
+
 ### Day 7 – Built-in Functions
 
 **Date:** 23-Dec-2025
@@ -97,6 +107,8 @@ BridgeLabz-Training/
   
 🔗 **Code:** [core-java-practice/extra](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extra)
 
+---
+
 ### Day 8 – Scenario-Based Problems (Set I)
 
 **Date:** 24-Dec-2025
@@ -104,6 +116,8 @@ BridgeLabz-Training/
 * **Logic Practice:** Implemented basic simulation logic for counters and health tracking systems.
   
 🔗 **Code:** [core-java-practice/scenario-based-codebase/day-01](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based-codebase/day-01)
+
+---
 
 ### Day 9 – Introduction to OOPs & Algorithms
 
@@ -119,6 +133,8 @@ BridgeLabz-Training/
   * **Setup:** Created `java-oops-practice` branch and directory structure.
 
 🔗 **Links:** [core-java-practice/scenario-based-codebase/day-02](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based-codebase/day-02) | [java-oops-codebase/oops](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/oops)
+
+---
 
 ### Day 10 – Constructors & LeetCode Practice
 
@@ -150,8 +166,9 @@ BridgeLabz-Training/
   * **Memory:** Understanding Instance vs. Static context.
 
 
-
 🔗 **Links:** [core-java-practice/scenario-based-codebase/day-03](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based-codebase/day-03) | [java-oops-practice/thisfinalstatic](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/thisfinalstatic/levelone)
+
+---
 
 ### Day 12 – Object Modeling & System Design
 
@@ -165,6 +182,8 @@ BridgeLabz-Training/
   * **System Models:** Designed class structures for Banking, Corporate, E-Commerce, Hospital, and Educational domains.
 
 🔗 **Links:** [core-java-practice/scenario-based-codebase/day-04](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based-codebase/day-04) | [java-oops-practice/objectmodeling](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodeling)
+
+---
 
 ### Day 13 – Inheritance & JVM Architecture
 
@@ -180,6 +199,8 @@ BridgeLabz-Training/
 
 🔗 **Links:** [core-java-practice/scenario-based-codebase/day-05](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based-codebase/day-05) | [java-oops-practice/inheritance](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
 
+---
+
 ### Day 14 – Polymorphism, Encapsulation & Abstraction
 
 **Date:** 01-Jan-2026
@@ -191,3 +212,14 @@ BridgeLabz-Training/
   * **Complex Systems:** Designed modular systems for Banking (Loanable), E-Commerce (Taxable), and Healthcare applications using polymorphic principles.
 
 🔗 **Code:** [java-oops-practice/polymorphism](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/polymorphism)
+
+---
+
+### Day 15 – Scenario Based questions
+**Date:** 02-Jan-2025
+
+* **OOPs Track:**
+  * **Scenarios:** Implemented simulations for EWalletApplication, HospitalManagementSystem, SmartHomeAutomation, UniversityCourseEnrollment, and VehicleRentalApplication.
+
+🔗 **Links:** [java-oops-practice/scenario-based-codebase/day-01](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayone) 
+
