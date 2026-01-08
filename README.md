@@ -186,3 +186,15 @@ BridgeLabz-Training/
 - Updated README structure for day 11.
 
 🔗 **Code Link:** 👉 [scenario-based-codebase/day-05](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayfive) 
+
+---
+
+### Day 12 – Scenario Based questions & README Updates  
+**Date:** 08-Jan-2025
+
+- Implemented scenario-based programs
+  - MediStore
+  - TourMate
+- Updated README structure for day 12.
+
+🔗 **Code Link:** 👉 [scenario-based-codebase/day-06](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/daysix) 
