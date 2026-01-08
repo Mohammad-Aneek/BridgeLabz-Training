@@ -250,7 +250,18 @@ BridgeLabz-Training/
 **Date:** 06-Jan-2025
 
 * **OOPs Track:**
-  * **Scenarios:** Implemented simulations for EduMentor and FitTrack.
+  * **Scenarios:** Implemented simulations for EduMentor, EventEase, PetPal, and FitTrack.
 
 
 🔗 **Links:**  [java-oops-practice/scenario-based-codebase/day-04](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayfour) 
+
+---
+
+### Day 19 – Scenario Based questions & README Updates  
+**Date:** 07-Jan-2025
+
+* **OOPs Track:**
+  * **Scenarios:** Implemented simulations for BookBazaar, LoanBuddy, and FitTrack.
+
+
+🔗 **Links:**  [java-oops-practice/scenario-based-codebase/day-05](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayfive) 
