@@ -168,6 +168,8 @@ BridgeLabz-Training/
 - Implemented scenario-based programs
   - EduMentor
   - FitTrack
+  - EventEase
+  - PetPal
 - Updated README structure for day 10.
 
 🔗 **Code Link:** 👉 [scenario-based-codebase/day-04](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayfour) 
