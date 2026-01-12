@@ -220,8 +220,12 @@ BridgeLabz-Training/
 
 * **OOPs Track:**
   * **Scenarios:** Implemented simulations for EWalletApplication, HospitalManagementSystem, SmartHomeAutomation, UniversityCourseEnrollment, and VehicleRentalApplication.
+ 
+* **DSA Track:**
+  * **Concepts:** Introduction to Nodes, Head, and Tail pointers.
+  * **Implementation:** Practiced Singly, Doubly, and Circular Linked List operations (Add, Remove, Display).
 
-🔗 **Links:** [java-oops-practice/scenario-based-codebase/day-01](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayone) 
+🔗 **Links:** [java-oops-practice/scenario-based-codebase/day-01](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayone) | [dsa-practice/linkedlist](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linkedlist)
 
 ---
 
