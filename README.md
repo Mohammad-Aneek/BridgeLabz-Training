@@ -19,6 +19,10 @@ BridgeLabz-Training/
 │   ├── gcr-codebase/
 │   ├── leet-code-codebase/
 │   └── scenario-based-codebase/
+├── dsa-practice/
+│   ├── gcr-codebase/
+│   ├── leet-code-codebase/
+│   └── scenario-based-codebase/
 └── README.md
 ```
 
