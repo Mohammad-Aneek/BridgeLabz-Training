@@ -36,3 +36,15 @@ BridgeLabz-Training/
 🔗 **Code Link:** 👉 [linkedlist](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linkedlist)
 
 ---
+
+### Day 2 – Stacks, Queues & HashMaps
+**Date:** 03-Jan-2026
+
+* Implemented **Stack** (LIFO) using Arrays/Linked Lists.
+* Implemented **Queue** (FIFO) using Arrays/Linked Lists.
+* Studied **Hashing functions** and **HashMap** implementation.
+* Use stack, queue, and hashmap to solve practice problems
+
+🔗 **Code Link:** 👉 [stack-queue](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stackandqueue) | [hashmap](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/hashmapandfunctions)
+
+---
