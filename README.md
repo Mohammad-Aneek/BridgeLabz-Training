@@ -67,3 +67,16 @@ BridgeLabz-Training/
 🔗 **Code Link:** 👉 [sorting](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/sorting)
 
 ---
+
+### Day 4 – Linear Search, Binary Search & String Handling
+
+**Date:** 06-Jan-2026
+
+* Implemented **Linear Search** (O(n)) and **Binary Search** (O(log n)).
+* Practiced Java IO and String manipulation:
+* Used and compared `StringBuilder` and `StringBuffer`
+* Used `BufferedReader`, `FileReader`, and `InputStreamReader`
+
+🔗 **Code Link:** 👉 [linear-search](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linearsearch) | [binary-search](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/binarysearch) | [file-reader](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/filereader) | [stringbuffer](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuffer) | [stringbuilder](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuilder)
+
+---
