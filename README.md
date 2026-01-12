@@ -48,3 +48,22 @@ BridgeLabz-Training/
 🔗 **Code Link:** 👉 [stack-queue](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stackandqueue) | [hashmap](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/hashmapandfunctions)
 
 ---
+
+## Week 2: Algorithms, Analysis & DSA Scenario Based Practice
+
+### Day 3 – Sorting Algorithms
+**Date:** 05-Jan-2026
+
+* Implemented and analyzed various sorting techniques:
+  * Bubble Sort
+  * Selection Sort
+  * Insertion Sort
+  * Merge Sort
+  * Quick Sort
+  * Counting Sort
+* Compared and understood the efficiency of the sorting algorithms
+* Explored the definition of stable sorting algorithms
+
+🔗 **Code Link:** 👉 [sorting](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/sorting)
+
+---
