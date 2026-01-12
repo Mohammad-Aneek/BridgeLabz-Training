@@ -254,7 +254,7 @@ BridgeLabz-Training/
   * **Sorting:** Implemented Bubble, Selection, Insertion, Merge, Quick, and Counting Sort.
   * **Concepts:** Explored stable vs. unstable sorting and efficiency comparisons.
 
-🔗 **Links:**  [java-oops-practice/scenario-based-codebase/day-03](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/daythree) | [sorting](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/sorting)
+🔗 **Links:**  [java-oops-practice/scenario-based-codebase/day-03](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/daythree) | [dsa-practice/sorting](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/sorting)
 
 ---
 
@@ -264,8 +264,11 @@ BridgeLabz-Training/
 * **OOPs Track:**
   * **Scenarios:** Implemented simulations for EduMentor, EventEase, PetPal, and FitTrack.
 
+* **DSA Track:**
+  * **Searching:** Implemented Linear Search (O(n)) and Binary Search (O(log n)).
+  * **String Handling:** Practiced `StringBuilder`, `StringBuffer`, `BufferedReader`, and `FileReader`.
 
-🔗 **Links:**  [java-oops-practice/scenario-based-codebase/day-04](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayfour) 
+🔗 **Links:**  [java-oops-practice/scenario-based-codebase/day-04](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayfour) | [dsa-practice/linear-search](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linearsearch) | [dsa-practice/binary-search](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/binarysearch) | [dsa-practice/file-reader](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/filereader) | [dsa-practice/stringbuffer](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuffer) | [dsa-practice/stringbuilder](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuilder)
 
 ---
 
