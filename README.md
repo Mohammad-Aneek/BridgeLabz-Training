@@ -215,7 +215,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 15 – Scenario Based questions
+### Day 15 – DSA Linked list & Scenario Based questions
 **Date:** 02-Jan-2025
 
 * **OOPs Track:**
@@ -229,7 +229,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 16 – Scenario Based questions 
+### Day 16 – Stack, Queue, HashMap, and Scenario Based Practice 
 **Date:** 03-Jan-2025
 
 * **OOPs Track:**
@@ -244,13 +244,17 @@ BridgeLabz-Training/
 ---
 ## Week 4: Oops Fundamentals Practice
 
-### Day 17 – Scenario Based questions & README Updates  
+### Day 17 – Sorting algorithms & Scenario Based questions 
 **Date:** 05-Jan-2025
 
 * **OOPs Track:**
   * **Scenarios:** Implemented simulations for CampusConnect and SwiftCart.
 
-🔗 **Links:**  [java-oops-practice/scenario-based-codebase/day-03](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/daythree) 
+* **DSA Track:**
+  * **Sorting:** Implemented Bubble, Selection, Insertion, Merge, Quick, and Counting Sort.
+  * **Concepts:** Explored stable vs. unstable sorting and efficiency comparisons.
+
+🔗 **Links:**  [java-oops-practice/scenario-based-codebase/day-03](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/daythree) | [sorting](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/sorting)
 
 ---
 
