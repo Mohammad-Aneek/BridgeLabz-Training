@@ -278,8 +278,12 @@ BridgeLabz-Training/
 * **OOPs Track:**
   * **Scenarios:** Implemented simulations for BookBazaar, LoanBuddy, and FitTrack.
 
+* **DSA Track:**
+  * **Analysis:** Studied Time and Space Complexity (Big-O, Omega, Theta).
+  * **Profiling:** Used `System.nanoTime()` to profile sorting/searching algorithms on large datasets.
 
-🔗 **Links:**  [java-oops-practice/scenario-based-codebase/day-05](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayfive) 
+🔗 **Links:**  [java-oops-practice/scenario-based-codebase/day-05](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayfive) | [dsa-practice/algorithmanalysis](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/algorithmanalysis)
+
 
 
 ---
