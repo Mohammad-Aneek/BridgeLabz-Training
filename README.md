@@ -80,3 +80,17 @@ BridgeLabz-Training/
 🔗 **Code Link:** 👉 [linear-search](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linearsearch) | [binary-search](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/binarysearch) | [file-reader](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/filereader) | [stringbuffer](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuffer) | [stringbuilder](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuilder)
 
 ---
+
+### Day 5 – Algorithm Analysis & Big-O Notation
+
+**Date:** 07-Jan-2026
+
+* Studied **Time Complexity** and **Space Complexity**.
+* Analyzed Best (Ω), Average (θ), and Worst (O) case scenarios.
+* Submitted analysis for previous sorting/searching algorithms.
+* Compared `String`, `StringBuilder`, and `StringBuffer` performance in concatenation.
+* Used `System.nanoTime()` to calculate actual runtime of algorithms over data sets of varying sizes.
+
+🔗 **Code Link:** 👉 [algorithmanalysis](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/algorithmanalysis)
+
+---
