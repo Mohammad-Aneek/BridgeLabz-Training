@@ -234,8 +234,12 @@ BridgeLabz-Training/
 
 * **OOPs Track:**
   * **Scenarios:** Implemented simulations for CabbyGo and MyBank.
+ 
+* **DSA Track:**
+  * **Data Structures:** Implemented **Stack** (LIFO) and **Queue** (FIFO) using Arrays and Linked Lists.
+  * **Hashing:** Studied Hashing functions and HashMap implementation.
 
-🔗 **Links:**  [java-oops-practice/scenario-based-codebase/day-02](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/daytwo) 
+🔗 **Links:**  [java-oops-practice/scenario-based-codebase/day-02](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/daytwo) | [dsa-practice/stack-queue](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stackandqueue) | [dsa-practice/hashmap](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/hashmapandfunctions)
 
 ---
 ## Week 4: Oops Fundamentals Practice
