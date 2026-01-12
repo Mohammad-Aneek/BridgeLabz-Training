@@ -123,7 +123,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 7 – Scenario Based questions & README Updates  
-**Date:** 02-Jan-2025
+**Date:** 02-Jan-2026
 
 - Implemented scenario-based programs
   - EWalletApplication
@@ -138,7 +138,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 8 – Scenario Based questions & README Updates  
-**Date:** 03-Jan-2025
+**Date:** 03-Jan-2026
 
 - Implemented scenario-based programs
   - CabbyGo
@@ -151,7 +151,7 @@ BridgeLabz-Training/
 ## Week 2: Oops Fundamentals Practice
 
 ### Day 9 – Scenario Based questions & README Updates  
-**Date:** 05-Jan-2025
+**Date:** 05-Jan-2026
 
 - Implemented scenario-based programs
   - CampusConnect
@@ -163,7 +163,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 10 – Scenario Based questions & README Updates  
-**Date:** 06-Jan-2025
+**Date:** 06-Jan-2026
 
 - Implemented scenario-based programs
   - EduMentor
@@ -177,7 +177,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 11 – Scenario Based questions & README Updates  
-**Date:** 07-Jan-2025
+**Date:** 07-Jan-2026
 
 - Implemented scenario-based programs
   - BookBazaar
@@ -190,7 +190,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 12 – Scenario Based questions & README Updates  
-**Date:** 08-Jan-2025
+**Date:** 08-Jan-2026
 
 - Implemented scenario-based programs
   - MediStore
@@ -202,7 +202,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 13 – Scenario Based questions & README Updates  
-**Date:** 09-Jan-2025
+**Date:** 09-Jan-2026
 
 - Implemented scenario-based programs
   - Artify
