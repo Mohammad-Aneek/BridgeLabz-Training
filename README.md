@@ -95,8 +95,6 @@ BridgeLabz-Training/
 
 ---
 
-## Week 2: Scenario based probledms for Data Structures & Algorithms (DSA)
-
 ### Day 5 – Scenario based problems
 
 **Date:** 10-Jan-2026
@@ -113,5 +111,27 @@ BridgeLabz-Training/
   * Stack  
 
 🔗 **Code Link:** 👉 [scenario-based-codebase/day1](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/dayone)
+
+---
+
+## Week 2: Scenario based probledms for Data Structures & Algorithms (DSA)
+
+### Day 6 – Scenario based problems
+
+**Date:** 12-Jan-2026
+
+* Solved the following Scanrio based problems
+  * CallCenter
+  * TrainCompanion
+  * TextEditor
+  * TrafficManager
+  * BookShelf
+* Practiced the following topic:
+  * Doubly Linked List
+  * HashMap
+  * Stack
+  * Queue
+
+🔗 **Code Link:** 👉 [scenario-based-codebase/day2](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/daytwo)
 
 ---
