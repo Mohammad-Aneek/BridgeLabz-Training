@@ -338,3 +338,14 @@ BridgeLabz-Training/
 🔗 **Code Link:** 👉 [dsa-practice/scenario-based-codebase/day-02](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/daytwo) 
 
 ---
+
+### Day 24 – Scenario Based questions & README Updates  
+**Date:** 13-Jan-2026
+
+* **DSA Track:**
+  * **Scenarios:** Implemented simulations for SmartCheckout, ParcelTracker, and ExamProctor.
+
+
+🔗 **Code Link:** 👉 [dsa-practice/scenario-based-codebase/day-03](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/daythree) 
+
+---
