@@ -110,7 +110,7 @@ BridgeLabz-Training/
   * HashMap
   * Stack  
 
-🔗 **Code Link:** 👉 [scenario-based-codebase/day1](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/dayone)
+🔗 **Code Link:** 👉 [scenario-based-codebase/day-1](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/dayone)
 
 ---
 
@@ -132,6 +132,24 @@ BridgeLabz-Training/
   * Stack
   * Queue
 
-🔗 **Code Link:** 👉 [scenario-based-codebase/day2](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/daytwo)
+🔗 **Code Link:** 👉 [scenario-based-codebase/day-2](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/daytwo)
+
+---
+
+### Day 8 – Scenario based problems
+
+**Date:** 13-Jan-2026
+
+* Solved the following Scanrio based problems
+  * SmartCheckout
+  * ParcelTracker
+  * ExamProctor
+* Practiced the following topic:
+  * Singly Linked List
+  * HashMap
+  * Stack
+  * Queue
+
+🔗 **Code Link:** 👉 [scenario-based-codebase/day-3](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/daythree)
 
 ---
