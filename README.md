@@ -312,3 +312,14 @@ BridgeLabz-Training/
 
 
 🔗 **Code Link:** 👉 [java-oops-practice/scenario-based-codebase/day-06](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayseven) 
+
+---
+
+### Day 22 – Scenario Based questions & README Updates  
+**Date:** 10-Jan-2026
+
+* **DSA Track:**
+  * **Scenarios:** Implemented simulations for AmbulanceRoute, BookShelf, and BrowserBuddy.
+
+
+🔗 **Code Link:** 👉 [dsa-practice/scenario-based-codebase/day-01](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/dayone) 
