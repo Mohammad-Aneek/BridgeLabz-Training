@@ -102,15 +102,15 @@ BridgeLabz-Training/
 **Date:** 10-Jan-2026
 
 * Solved the following Scanrio based problems
- * AmbulanceRoute
- * BookShelf
- * BrowserBuddy
+  * AmbulanceRoute
+  * BookShelf
+  * BrowserBuddy
 * Practiced the following topic:
- * Singly Linked List
- * Doubly Linked List
- * Circular Linked List
- * HashMap
- * Stack  
+  * Singly Linked List
+  * Doubly Linked List
+  * Circular Linked List
+  * HashMap
+  * Stack  
 
 🔗 **Code Link:** 👉 [scenario-based-codebase/day1](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/dayone)
 
