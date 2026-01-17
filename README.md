@@ -95,7 +95,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 5 – Scenario based problems
+### Day 6 – Scenario based problems
 
 **Date:** 10-Jan-2026
 
@@ -114,9 +114,9 @@ BridgeLabz-Training/
 
 ---
 
-## Week 2: Scenario based probledms for Data Structures & Algorithms (DSA)
+## Week 3: Scenario based probledms for Data Structures & Algorithms (DSA)
 
-### Day 6 – Scenario based problems
+### Day 7 – Scenario based problems
 
 **Date:** 12-Jan-2026
 
