@@ -246,7 +246,7 @@ BridgeLabz-Training/
 🔗 **Links:**  [java-oops-practice/scenario-based-codebase/day-02](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/daytwo) | [dsa-practice/stack-queue](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stackandqueue) | [dsa-practice/hashmap](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/hashmapandfunctions)
 
 ---
-## Week 4: Oops Fundamentals Practice
+## Week 4: Oops Fundamentals, DSA, & Scenario based Practice
 
 ### Day 17 – Sorting algorithms & Scenario Based questions 
 **Date:** 05-Jan-2026
@@ -323,3 +323,18 @@ BridgeLabz-Training/
 
 
 🔗 **Code Link:** 👉 [dsa-practice/scenario-based-codebase/day-01](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/dayone) 
+
+---
+
+## Week 5: Collections & Scenario based Practice
+
+### Day 23 – Scenario Based questions & README Updates  
+**Date:** 12-Jan-2026
+
+* **DSA Track:**
+  * **Scenarios:** Implemented simulations for CallCenter, TrainCompanion, TrafficManager, BookShelf, and TextEditor.
+
+
+🔗 **Code Link:** 👉 [dsa-practice/scenario-based-codebase/day-02](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/daytwo) 
+
+---
