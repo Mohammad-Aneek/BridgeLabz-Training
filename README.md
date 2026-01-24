@@ -228,3 +228,14 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** 👉 [scenario-based-codebase/day-08](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayeight) 
 
+---
+
+### Day 15 – Scenario Based questions & README Updates  
+**Date:** 13-Jan-2026
+
+- Implemented scenario-based programs
+  - BirdSanctuary
+  - PayXpress
+
+🔗 **Code Link:** 👉 [scenario-based-codebase/day-09](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/daynine) 
+
