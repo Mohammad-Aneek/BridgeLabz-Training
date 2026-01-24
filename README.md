@@ -239,3 +239,13 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** 👉 [scenario-based-codebase/day-09](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/daynine) 
 
+---
+
+### Day 16 – Scenario Based questions & README Updates  
+**Date:** 17-Jan-2026
+
+- Implemented scenario-based programs
+  - GeoMeasure
+  - TinyTown
+
+🔗 **Code Link:** 👉 [scenario-based-codebase/day-10](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayten) 
