@@ -153,3 +153,21 @@ BridgeLabz-Training/
 🔗 **Code Link:** 👉 [scenario-based-codebase/day-3](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/daythree)
 
 ---
+
+### Day 9 – Scenario based problems
+
+**Date:** 15-Jan-2026
+
+* Solved the following Scanrio based problems
+  * HospitalQueue
+  * SmartShelf
+  * ZipZipMart
+  * EventManager
+  * ExamCell
+* Practiced the following topic:
+  * Bubble Sort
+  * Insertion Sort
+  * Merge Sort
+  * Quick Sort
+
+🔗 **Code Link:** 👉 [scenario-based-codebase/day-4](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/dayfour)
