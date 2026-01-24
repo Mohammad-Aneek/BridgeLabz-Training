@@ -213,3 +213,17 @@ BridgeLabz-Training/
   * FitnessTracker
 
 🔗 **Code Link:** 👉 [scenario-based-codebase/day-7](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/dayseven)
+
+---
+
+### Day 13 – Scenario based problems
+
+**Date:** 20-Jan-2026
+
+* Solved the following Scanrio based problems
+  * MovieTime
+  * FoodFest
+  * GamerZone
+
+🔗 **Code Link:** 👉 [scenario-based-codebase/day-8](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/dayeight)
+
