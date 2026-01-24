@@ -171,3 +171,16 @@ BridgeLabz-Training/
   * Quick Sort
 
 🔗 **Code Link:** 👉 [scenario-based-codebase/day-4](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/dayfour)
+
+---
+
+### Day 10 – Scenario based problems
+
+**Date:** 16-Jan-2026
+
+* Solved the following Scanrio based problems
+  * RoboWarehouse
+  * CinemaHouse
+  * CropMonitor
+
+🔗 **Code Link:** 👉 [scenario-based-codebase/day-5](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/dayfive)
