@@ -249,3 +249,17 @@ BridgeLabz-Training/
   - TinyTown
 
 🔗 **Code Link:** 👉 [scenario-based-codebase/day-10](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayten) 
+
+---
+
+## Week 4: Oops Scenario Based Practice
+
+---
+
+### Day 17 – Scenario Based questions & README Updates  
+**Date:** 19-Jan-2026
+
+- Implemented scenario-based programs
+  - DigiContact
+
+🔗 **Code Link:** 👉 [scenario-based-codebase/day-11](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayeleven) 
