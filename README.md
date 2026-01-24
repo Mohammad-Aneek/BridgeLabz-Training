@@ -227,3 +227,14 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** 👉 [scenario-based-codebase/day-8](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/dayeight)
 
+--- 
+
+### Day 14 – Scenario based problems
+
+**Date:** 21-Jan-2026
+
+* Solved the following Scanrio based problems
+  * TailorShop
+  * MedWarehouse
+
+🔗 **Code Link:** 👉 [scenario-based-codebase/day-9](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/daynine)
