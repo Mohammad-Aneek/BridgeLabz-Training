@@ -189,7 +189,7 @@ BridgeLabz-Training/
 
 ### Day 11 – Scenario based problems
 
-**Date:** 16-Jan-2026
+**Date:** 17-Jan-2026
 
 * Solved the following Scanrio based problems
   * ArtExpo
@@ -198,3 +198,18 @@ BridgeLabz-Training/
   * SmartLibrary
 
 🔗 **Code Link:** 👉 [scenario-based-codebase/day-6](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/daysix)
+
+---
+
+## Week 4: Scenario based probledms for Data Structures & Algorithms (DSA)
+
+### Day 12 – Scenario based problems
+
+**Date:** 19-Jan-2026
+
+* Solved the following Scanrio based problems
+  * EduResults
+  * FlashDealz
+  * FitnessTracker
+
+🔗 **Code Link:** 👉 [scenario-based-codebase/day-7](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/dayseven)
