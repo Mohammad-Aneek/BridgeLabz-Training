@@ -210,4 +210,21 @@ BridgeLabz-Training/
   - SkillForge
 - Updated README structure for day 13.
 
-🔗 **Code Link:** 👉 [scenario-based-codebase/day-06](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayseven) 
+🔗 **Code Link:** 👉 [scenario-based-codebase/day-07](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayseven) 
+
+---
+
+## Week 3: Oops Scenario Based Practice
+
+---
+
+### Day 14 – Scenario Based questions & README Updates  
+**Date:** 12-Jan-2026
+
+- Implemented scenario-based programs
+  - BudgetWise
+  - GameBox
+  - HomeNest
+
+🔗 **Code Link:** 👉 [scenario-based-codebase/day-08](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBasedConcept/src/com/dayeight) 
+
