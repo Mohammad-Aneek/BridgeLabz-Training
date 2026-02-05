@@ -59,3 +59,18 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** 👉 [streams](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/streams)
 
+---
+
+### Day 4 – Exceptions & Handling
+
+**Date:** 20-Jan-2026
+
+* Studied about types of Exception
+  * Checked Exceptions
+  * Unchecked Exceptions
+  * Custom Exceptions
+* Practiced Handling Exceptions
+* Understood how to create, throw, and handle Custome Exceptions.
+
+🔗 **Code Link:** 👉 [exceptions](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/exceptions)
+
