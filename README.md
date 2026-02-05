@@ -74,3 +74,16 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** 👉 [exceptions](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/exceptions)
 
+---
+
+### Day 5 – Regex & JUnit
+
+**Date:** 21-Jan-2026
+
+* Studied various regex patterns for Data validation
+* Understoop JUnit and its role
+* Explored various methods and Annotations
+* Practiced testing and validation
+
+🔗 **Code Link:** 👉 [regex](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/regex) | [junit](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/junit)
+
