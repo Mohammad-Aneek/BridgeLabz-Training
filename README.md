@@ -101,3 +101,18 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** 👉 [reflection](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/reflection) | [annotations](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/annotations)
 
+---
+
+### Day 7 – Scenario based problems
+
+**Date:** 23-Jan-2026
+
+* Solved the following Scanrio based problems
+  * ResumeAnalyzer
+  * TravelLog
+  * FeedbackGuru
+  * CodeRepoCleaner
+  * ExamScanner
+
+🔗 **Code Link:** 👉 `yet-to-add`
+
