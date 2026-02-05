@@ -193,3 +193,7 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [scenario-based-codebase/day-05](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based-codebase/day-05)  
+
+---
+
+## Branch Closed
