@@ -116,3 +116,24 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** 👉 `yet-to-add`
 
+---
+
+### Day 8 – Scenario based problems
+
+**Date:** 24-Jan-2026
+
+* Solved the following Scanrio based problems
+  * MedInventory
+  * ChatLogParser
+  * SongVault
+  * ExamResultUploader
+  * DealTracker
+
+🔗 **Code Link:** 👉 `yet-to-add`
+
+---
+
+## 🏁 Branch Status
+
+* Status: ✅ Completed
+* Last Updated: 24-Jan-2026
