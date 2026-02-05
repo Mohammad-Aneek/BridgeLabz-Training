@@ -1,28 +1,40 @@
 # BridgeLabz-Training
 
-## Repository Overview
+## 📘 BridgeLabz Fellowship – Java Full Stack (2025–26)
 
-This repository serves as the central log for the BridgeLabz Fellowship training. It consolidates daily progress across different learning tracks with more coming soon:
+This repository is a **single-source learning journal** mapped directly to the  
+**Google Classroom – CG TIT Java FS (2025–26)** timeline.
 
-1. **Core Java Fundamentals:** Covering syntax, algorithms (LeetCode), and logic building.
-2. **Object-Oriented Programming (OOP):** System design, architecture, and advanced Java concepts.
+Each learning track is maintained in its **own branch**, while this `main` branch
+acts as a **central index and progress dashboard**.
 
-### Directory Structure
+---
+
+## 🧭 Training Tracks (Branch-wise)
+
+| Track | Branch | Status |
+|-----|------|------|
+| Core Java Fundamentals | `core-java-practice` | ✅ Closed |
+| Java OOPs | `java-oops-practice` | ✅ Closed |
+| Data Structures & Algorithms | `dsa-practice` | ✅ Closed |
+| Java Collections | `java-collections-practice` | ✅ Closed |
+| Java IO Streams | `java-iostreams-practice` | ✅ Closed |
+| Java 8 (Streams, Lambda, Optional) | `java8-programming-practice` | 🔄 Active |
+| Design Patterns | `java-design-pattern-practice` | 🔄 Active |
+
+---
+
+## 🗂 Repository Structure
 
 ```text
 BridgeLabz-Training/
 ├── core-java-practice/
-│   ├── gcr-codebase/
-│   ├── leet-code-codebase/
-│   └── scenario-based-codebase/
 ├── java-oops-practice/
-│   ├── gcr-codebase/
-│   ├── leet-code-codebase/
-│   └── scenario-based-codebase/
 ├── dsa-practice/
-│   ├── gcr-codebase/
-│   ├── leet-code-codebase/
-│   └── scenario-based-codebase/
+├── java-collections-practice/
+├── java-iostreams-practice/
+├── java8-programming-practice/
+├── java-design-pattern-practice/
 └── README.md
 ```
 
