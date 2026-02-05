@@ -32,3 +32,14 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** 👉 [generics](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/generics) 
 
+---
+
+### Day 2 – Collections deep dive
+**Date:** 17-Jan-2026
+
+* Understood the collections and map hierarchy.
+* Studied the list, set, queue, and map interfaces;
+* solved questions involving different collections
+
+🔗 **Code Link:** 👉 [collections](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/collections)
+
