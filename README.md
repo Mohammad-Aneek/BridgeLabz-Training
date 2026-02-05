@@ -43,3 +43,19 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** 👉 [collections](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/collections)
 
+---
+
+### Day 3 – Java Streams
+**Date:** 19-Jan-2026
+
+* Studied about varios Java I/O streams
+  * File Streams
+  * Object Streams
+  * ByteArray Streams
+  * Buffered Streams
+  * Reader and Writer
+* Understood their best practices
+* Solved problems involving streams
+
+🔗 **Code Link:** 👉 [streams](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/streams)
+
