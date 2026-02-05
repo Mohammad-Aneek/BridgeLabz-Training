@@ -87,3 +87,17 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** 👉 [regex](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/regex) | [junit](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/junit)
 
+---
+
+## Week 2: Reflection, Annotation, and Scenario based practice
+
+### Day 6 – Scenario based problems
+
+**Date:** 22-Jan-2026
+
+* Introduction to Annotations
+* Introduction to Reflection
+* Real-World use cases
+
+🔗 **Code Link:** 👉 [reflection](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/reflection) | [annotations](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/annotations)
+
