@@ -36,6 +36,15 @@ BridgeLabz-Training/
 
 ---
 
+### Day 3 – Scenario based questions
+**Date:** 27-Jan-2026
+
+* CSV and JSON based scenario based questions
+
+🔗 **Code Link:** 👉 [TO BE UPDATED]() 
+
+---
+
 ## 🏁 Branch Status
 
 * Status: ✅ Completed
