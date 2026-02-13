@@ -1,0 +1,51 @@
++----+----------+------------+-------------+
+| id | name     | salary     | department  |
++----+----------+------------+-------------+
+|  1 | Aneek    | 5000000.00 | Engineering |
+|  2 | Khushi   | 1800000.00 | Engineering |
+|  3 | Abhishek | 2500000.00 | Management  |
++----+----------+------------+-------------+
+
+
+-- Create Datbase named company_db
+CREATE DATABASE company_db;
+
+-- to use the database or switch to the database
+USE company_db;
+
+-- Create table names employees with fields such as id, name, salary, and department
+CREATE TABLE employees (id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR (100) NOT NULL, salary DECIMAL (10, 2), department VARCHAR (50));
+
+-- to insert data into a table
+INSERT INTO
+    employees (name, salary, department)
+VALUES
+    ("Aneek", 5000000, "Engineering"),
+    ("Khushi", 1200000, "Engineering"),
+    ("Abhishek", 2500000, "Management"),
+    ("Alice", 2500000, "IT");
+
+
+-- to show every record in a table
+SELECT
+    *
+FROM
+    employees;
+
+
+-- to update a specific record in a table
+UPDATE
+    employees
+SET
+    salary = 1800000
+WHERE
+    name = "Khushi";
+
+-- to delete a record from a table
+DELETE FROM
+    employees
+WHERE
+    id = 4;
+
+-- to display a specific record in a table
+SELECT * FROM employees WHERE name = "Abhishek";
