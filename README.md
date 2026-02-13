@@ -28,3 +28,21 @@ BridgeLabz-Training/
 ```
 
 🔗 **Code Link:** 👉 [lambdaexpressions](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java8-programming-practice/java8-programmming-practice/gcr-codebase/Java8Practice/src/com/lamdaexpressions) | [functionalinterface](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java8-programming-practice/java8-programmming-practice/gcr-codebase/Java8Practice/src/com/functionalinterface) | [methodreferences](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java8-programming-practice/java8-programmming-practice/gcr-codebase/Java8Practice/src/com/stream)
+
+---
+
+### Day 2 – Stream API & Collectors
+**Date:** 28-Jan-2026
+
+* Practiced data streaming and manipulations 
+* Used streams and collectors to solve multiple questions
+* Solved various Scenario based problems
+
+🔗 **Code Link:** 👉 [stream](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java8-programming-practice/java8-programmming-practice/gcr-codebase/Java8Practice/src/com/stream) | [collectors](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java8-programming-practice/java8-programmming-practice/gcr-codebase/Java8Practice/src/com/stream) | [stream-scenario]()
+
+---
+
+## 🏁 Branch Status
+
+* Status: ✅ Completed
+* Last Updated: 28-Jan-2026
