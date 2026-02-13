@@ -24,7 +24,17 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** 👉 [csv](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamPractice/src/com/csv)
 
+---
 
+### Day 2 – JSON Data Handling
+**Date:** 24-Jan-2026
+
+* Introduction to Json
+* Jackson Library introduction and practice
+
+🔗 **Code Link:** 👉 [stream](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamPractice/src/com/json) 
+
+---
 
 ## 🏁 Branch Status
 
