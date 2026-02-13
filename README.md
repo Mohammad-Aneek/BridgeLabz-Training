@@ -40,3 +40,19 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** 👉 [TO BE UPDATED]()
 
+---
+
+### Day 3 – JDBC Deep dive
+**Date:** 09-Feb-2026
+
+* Studied and practiced Database connectivity
+* Differentiated between `Statement` & `PreparedStatement`
+
+🔗 **Code Link:** 👉 [JDBC](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcept/src/com/jdbc)
+
+---
+
+## 🏁 Branch Status
+
+* Status: ✅ Completed
+* Last Updated: 13-Feb-2026
