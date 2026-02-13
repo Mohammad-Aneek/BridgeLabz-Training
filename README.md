@@ -26,3 +26,17 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** 👉 [dbms](https://github.com/Mohammad-Aneek/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcept/src/com/dbms) 
 
+---
+
+### Day 2 – MySQL & JDBC Scenario Based Questions
+**Date:** 07-Feb-2026
+
+* Practiced data base designing
+* Solves realwold scnarios incorpoarating relations such as:
+  - One-to-one
+  - One-to-many
+  - many-to-many 
+* solved questions involving different concepts
+
+🔗 **Code Link:** 👉 [TO BE UPDATED]()
+
